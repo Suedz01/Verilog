@@ -1,0 +1,6 @@
+module/endmodule - um módule sempre é encerrado com um endmodule
+
+
+module SomaSub (in1, in2, Seletor, Overflow, Out);
+(...)
+endmodule
